@@ -1,0 +1,23 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/lib/ionic/js/angular/angular.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/lib/ionic/js/angular/angular.min.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/build/emulator/tripballz.app/www/lib/ionic/js/angular-ui/angular-ui-router.min.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/build/device/tripballz.app/www/lib/ionic/js/angular-ui/angular-ui-router.min.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/lib/ionic/js/ionic-angular.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/lib/ionic/js/ionic-angular.min.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/lib/ionic/js/ionic.bundle.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/lib/ionic/js/ionic.bundle.min.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/lib/ionic/js/ionic.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/lib/ionic/js/ionic.min.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/plugins/com.ionic.keyboard/www/keyboard.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/plugins/cordova-plugin-console/www/console-via-logger.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/plugins/cordova-plugin-console/www/logger.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/plugins/cordova-plugin-device/www/device.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/plugins/org.apache.cordova.statusbar/www/statusbar.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/lib/ionic/js/angular-ui/angular-ui-router.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/build/emulator/tripballz.app/www/lib/ionic/js/angular-ui/angular-ui-router.js",
+        "/Users/chungsam/Documents/Projects/tripballz/platforms/ios/www/lib/ionic/js/angular/angular-sanitize.min.js"
+    ]
+}
